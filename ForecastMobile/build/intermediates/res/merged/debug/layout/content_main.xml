@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/main_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="kevinthesun.csci571hw9.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/ForecastSearch"
+        android:id="@+id/textView"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/Street"
+        android:id="@+id/StreetText"
+        android:layout_marginTop="34dp"
+        android:layout_marginLeft="35dp"
+        android:layout_below="@+id/textView"
+        android:layout_toLeftOf="@+id/textView"
+        android:layout_toStartOf="@+id/textView"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="true"
+        android:textColor="#060000" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/StreetInput"
+        android:inputType="none"
+        android:width="180dp"
+        android:layout_alignTop="@+id/StreetText"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginStart="26dp"
+        android:singleLine="false"
+        android:phoneNumber="false"
+        android:layout_marginBottom="0dp"
+        android:layout_alignParentEnd="false"
+        android:layout_marginTop="-10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/City"
+        android:id="@+id/CityText"
+        android:textColor="#050000"
+        android:layout_below="@+id/StreetInput"
+        android:layout_alignLeft="@+id/StreetText"
+        android:layout_alignStart="@+id/StreetText"
+        android:layout_marginTop="10dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/CityInput"
+        android:inputType="none"
+        android:width="180dp"
+        android:layout_below="@+id/StreetInput"
+        android:layout_alignLeft="@+id/StreetInput"
+        android:layout_alignStart="@+id/StreetInput" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/State"
+        android:id="@+id/StateText"
+        android:layout_below="@+id/CityInput"
+        android:layout_alignLeft="@+id/CityText"
+        android:layout_alignStart="@+id/CityText"
+        android:layout_marginTop="10dp"
+        android:textColor="#050000" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/StateInput"
+        android:layout_alignTop="@+id/StateText"
+        android:layout_alignLeft="@+id/CityInput"
+        android:layout_alignStart="@+id/CityInput"
+        android:spinnerMode="dropdown"
+        android:entries="@array/us_states"
+        android:layout_alignRight="@+id/CityInput"
+        android:layout_alignEnd="@+id/CityInput"
+        style="@style/Widget.AppCompat.Spinner.Underlined"
+        android:prompt="@string/Select"
+        android:layout_marginTop="-10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/Degree"
+        android:id="@+id/Degree"
+        android:layout_below="@+id/StateInput"
+        android:layout_alignLeft="@+id/StateText"
+        android:layout_alignStart="@+id/StateText"
+        android:textColor="#050000"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/SearchButton"
+        android:id="@+id/SearchButton"
+        android:background="@drawable/button"
+        android:layout_below="@+id/Degree"
+        android:layout_toLeftOf="@+id/StateInput"
+        android:layout_toStartOf="@+id/StateInput"
+        android:layout_marginTop="35dp"
+        android:clickable="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ClearButton"
+        android:id="@+id/ClearButton"
+        android:background="@drawable/button"
+        android:layout_alignTop="@+id/SearchButton"
+        android:layout_toLeftOf="@+id/PowerText"
+        android:layout_toStartOf="@+id/PowerText"
+        android:clickable="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:id="@+id/AboutButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/SearchButton"
+        android:layout_alignStart="@+id/SearchButton"
+        android:clickable="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/PowerText"
+        android:id="@+id/PowerText"
+        android:textColor="#020000"
+        android:layout_alignTop="@+id/AboutButton"
+        android:layout_alignRight="@+id/StateInput"
+        android:layout_alignEnd="@+id/StateInput" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/PowerLinkText"
+        android:id="@+id/PowerLinkText"
+        android:layout_alignBottom="@+id/AboutButton"
+        android:layout_alignRight="@+id/PowerText"
+        android:layout_alignEnd="@+id/PowerText"
+        android:textColor="#030000"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:textColorLink="@android:color/black"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/Degree"
+        android:layout_alignLeft="@+id/StateInput"
+        android:layout_alignStart="@+id/StateInput"
+        android:layout_above="@+id/ClearButton"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:id="@+id/DegreeRadio">
+
+        <RadioButton
+            android:layout_width="105dp"
+            android:layout_height="wrap_content"
+            android:text="@string/Fahrenheit"
+            android:id="@+id/DegreeButton1"
+            android:checked="true"
+            android:width="80dp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Celsius"
+            android:id="@+id/DegreeRadio2"
+            android:checked="false" />
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/EmtError"
+        android:layout_below="@+id/SearchButton"
+        android:layout_alignLeft="@+id/SearchButton"
+        android:layout_alignStart="@+id/SearchButton"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#fd0101" />
+
+</RelativeLayout>

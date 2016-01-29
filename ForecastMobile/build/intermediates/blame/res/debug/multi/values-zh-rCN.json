@@ -1,0 +1,1413 @@
+[
+    {
+        "outputFile": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/values-zh-rCN/values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 95,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 95,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 106,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 106,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 122,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 122,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 94,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 94,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 99,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 654,
+                        "endColumn": 99,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endColumn": 81,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 81,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 96,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 96,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 105,
+                    "endOffset": 906
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 105,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 911,
+                    "endColumn": 75,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1039,
+                        "endColumn": 75,
+                        "endOffset": 1110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 75,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1115,
+                        "endColumn": 75,
+                        "endOffset": 1186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 77,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1191,
+                        "endColumn": 77,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endColumn": 95,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 95,
+                        "endOffset": 1360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endColumn": 95,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1365,
+                        "endColumn": 95,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 94,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 94,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 96,
+                    "endOffset": 1520
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1556,
+                        "endColumn": 96,
+                        "endOffset": 1648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1525,
+                    "endColumn": 94,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1653,
+                        "endColumn": 94,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 97,
+                    "endOffset": 1713
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 97,
+                        "endOffset": 1841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1718,
+                    "endColumn": 111,
+                    "endOffset": 1825
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1846,
+                        "endColumn": 111,
+                        "endOffset": 1953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1830,
+                    "endColumn": 93,
+                    "endOffset": 1919
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1958,
+                        "endColumn": 93,
+                        "endOffset": 2047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1924,
+                    "endColumn": 82,
+                    "endOffset": 2002
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 82,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2007,
+                    "endColumn": 88,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 88,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 91,
+                    "endOffset": 2183
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 346,
+                        "endColumn": 91,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2188,
+                    "endColumn": 61,
+                    "endOffset": 2245
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 61,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2250,
+                    "endColumn": 64,
+                    "endOffset": 2310
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 64,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2315,
+                    "endColumn": 56,
+                    "endOffset": 2367
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 56,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2372,
+                    "endColumn": 67,
+                    "endOffset": 2435
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 67,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2440,
+                    "endColumn": 67,
+                    "endOffset": 2503
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 67,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2508,
+                    "endColumn": 84,
+                    "endOffset": 2588
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 84,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2593,
+                    "endColumn": 68,
+                    "endOffset": 2657
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 843,
+                        "endColumn": 68,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2662,
+                    "endColumn": 68,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 68,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 75,
+                    "endOffset": 2802
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2807,
+                    "endColumn": 91,
+                    "endOffset": 2894
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 91,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2899,
+                    "endColumn": 60,
+                    "endOffset": 2955
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1149,
+                        "endColumn": 60,
+                        "endOffset": 1205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2960,
+                    "endColumn": 61,
+                    "endOffset": 3017
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1210,
+                        "endColumn": 61,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3022,
+                    "endColumn": 85,
+                    "endOffset": 3103
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 85,
+                        "endOffset": 1353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3108,
+                    "endColumn": 169,
+                    "endOffset": 3273
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 434,
+                        "endColumn": 173,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3278,
+                    "endColumn": 152,
+                    "endOffset": 3426
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2266,
+                        "endColumn": 156,
+                        "endOffset": 2418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3431,
+                    "endColumn": 105,
+                    "endOffset": 3532
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1995,
+                        "endColumn": 105,
+                        "endOffset": 2096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3537,
+                    "endColumn": 185,
+                    "endOffset": 3718
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3816,
+                        "endColumn": 189,
+                        "endOffset": 4001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3723,
+                    "endColumn": 115,
+                    "endOffset": 3834
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 115,
+                        "endOffset": 1875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3839,
+                    "endColumn": 160,
+                    "endOffset": 3995
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1599,
+                        "endColumn": 164,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4000,
+                    "endColumn": 113,
+                    "endOffset": 4109
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1485,
+                        "endColumn": 113,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4114,
+                    "endColumn": 160,
+                    "endOffset": 4270
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 164,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4275,
+                    "endColumn": 116,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1368,
+                        "endColumn": 116,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4392,
+                    "endColumn": 169,
+                    "endOffset": 4557
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 173,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4562,
+                    "endColumn": 171,
+                    "endOffset": 4729
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 175,
+                        "endOffset": 1363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4734,
+                    "endColumn": 113,
+                    "endOffset": 4843
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 904,
+                        "endColumn": 113,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4848,
+                    "endColumn": 128,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3067,
+                        "endColumn": 128,
+                        "endOffset": 3191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 112,
+                    "endOffset": 5085
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2954,
+                        "endColumn": 112,
+                        "endOffset": 3062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5090,
+                    "endColumn": 130,
+                    "endOffset": 5216
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 130,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5221,
+                    "endColumn": 133,
+                    "endOffset": 5350
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2820,
+                        "endColumn": 133,
+                        "endOffset": 2949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5355,
+                    "endColumn": 110,
+                    "endOffset": 5461
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2709,
+                        "endColumn": 110,
+                        "endOffset": 2815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5466,
+                    "endColumn": 141,
+                    "endOffset": 5603
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 141,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5608,
+                    "endColumn": 121,
+                    "endOffset": 5725
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 121,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5730,
+                    "endColumn": 123,
+                    "endOffset": 5849
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4118,
+                        "endColumn": 123,
+                        "endOffset": 4237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5854,
+                    "endColumn": 111,
+                    "endOffset": 5961
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4006,
+                        "endColumn": 111,
+                        "endOffset": 4113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5966,
+                    "endColumn": 120,
+                    "endOffset": 6082
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3196,
+                        "endColumn": 120,
+                        "endOffset": 3312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6087,
+                    "endColumn": 188,
+                    "endOffset": 6271
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3435,
+                        "endColumn": 192,
+                        "endOffset": 3623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6276,
+                    "endColumn": 117,
+                    "endOffset": 6389
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3317,
+                        "endColumn": 117,
+                        "endOffset": 3430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6394,
+                    "endColumn": 102,
+                    "endOffset": 6492
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3628,
+                        "endColumn": 102,
+                        "endOffset": 3726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6497,
+                    "endColumn": 160,
+                    "endOffset": 6653
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2101,
+                        "endColumn": 164,
+                        "endOffset": 2261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6658,
+                    "endColumn": 114,
+                    "endOffset": 6768
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1880,
+                        "endColumn": 114,
+                        "endOffset": 1990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6773,
+                    "endColumn": 162,
+                    "endOffset": 6931
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2542,
+                        "endColumn": 166,
+                        "endOffset": 2704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6936,
+                    "endColumn": 118,
+                    "endOffset": 7050
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2423,
+                        "endColumn": 118,
+                        "endOffset": 2537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7055,
+                    "endColumn": 84,
+                    "endOffset": 7135
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3731,
+                        "endColumn": 84,
+                        "endOffset": 3811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7140,
+                    "endColumn": 57,
+                    "endOffset": 7193
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 57,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7198,
+                    "endColumn": 106,
+                    "endOffset": 7300
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 106,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7305,
+                    "endColumn": 98,
+                    "endOffset": 7399
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 98,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7404,
+                    "endColumn": 92,
+                    "endOffset": 7492
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 92,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7497,
+                    "endColumn": 98,
+                    "endOffset": 7591
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 98,
+                        "endOffset": 690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7596,
+                    "endColumn": 81,
+                    "endOffset": 7673
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 695,
+                        "endColumn": 81,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7678,
+                    "endColumn": 88,
+                    "endOffset": 7762
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 777,
+                        "endColumn": 88,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7767,
+                    "endColumn": 100,
+                    "endOffset": 7863
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2052,
+                        "endColumn": 100,
+                        "endOffset": 2148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7868,
+                    "endColumn": 101,
+                    "endOffset": 7965
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/res/values-zh-rCN/wallet_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 101,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

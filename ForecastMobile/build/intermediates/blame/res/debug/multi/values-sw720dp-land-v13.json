@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/values-sw720dp-land/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 58,
+                        "endOffset": 244
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_ice.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_ice.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_record_himin.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_record_himin.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_lightning_orange.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_lightning_orange.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_current_winds.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_current_winds.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_wave.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_wave.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/point_grey.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/point_grey.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_record_lomax.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_record_lomax.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_fire.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_fire.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_quake_light.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_quake_light.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_stormcell_rotating.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_stormcell_rotating.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_record_maxtemp.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_record_maxtemp.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_stormcell_tornado.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_stormcell_tornado.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_rain.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_rain.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_quake_major.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_quake_major.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_stormcell_general.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_stormcell_general.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_fog.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_fog.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/point_purple.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/point_purple.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_current_heatindex.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_current_heatindex.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_current_humidity.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_current_humidity.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_records.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_records.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_current_sst.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_current_sst.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_snowdepth.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_snowdepth.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/point_black.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/point_black.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_lightning_blue.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_lightning_blue.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_stormcell_hail.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_stormcell_hail.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_avalanche.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_avalanche.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_quake_strong.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_quake_strong.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_warnings.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_warnings.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_quake_great.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_quake_great.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_current_chlorophyll.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_current_chlorophyll.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_quake_mini.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_quake_mini.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_tstorm.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_tstorm.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_record_snow.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_record_snow.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_lightning.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_lightning.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_lightning_white.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_lightning_white.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/point_blue.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/point_blue.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_hail.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_hail.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_wildfire.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_wildfire.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_snow.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_snow.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/point_white.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/point_white.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_stormcells.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_stormcells.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_lightning_yellow.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_lightning_yellow.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_current_temps.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_current_temps.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_tornado.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_tornado.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_record_mintemp.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_record_mintemp.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_freeze.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_freeze.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_advisories.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_advisories.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_stormreports.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_stormreports.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_dust.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_dust.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_radar.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_radar.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_report_wind.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_report_wind.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/point_brown.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/point_brown.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_current_dewpoint.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_current_dewpoint.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_current_windchill.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_current_windchill.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_record_rain.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_record_rain.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/legend_earthquakes.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/legend_earthquakes.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_quake_minor.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_quake_minor.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_lightning_red.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_lightning_red.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/point_teal.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/point_teal.png"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_quake_moderate.png",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/drawable-ldpi/marker_quake_moderate.png"
+    }
+]

@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kevinthesun.csci571hw9.MapFragment">
+    <com.hamweather.aeris.maps.AerisMapView
+        android:id="@+id/aerisfragment_map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+    </com.hamweather.aeris.maps.AerisMapView>
+</FrameLayout>

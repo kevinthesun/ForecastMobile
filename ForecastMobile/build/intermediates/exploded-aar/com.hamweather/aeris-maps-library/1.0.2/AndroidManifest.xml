@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="1.0.1" package="com.hamweather.aeris.maps">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="18"/>
+
+    <application android:label="@string/app_name"/>
+      
+
+
+</manifest>

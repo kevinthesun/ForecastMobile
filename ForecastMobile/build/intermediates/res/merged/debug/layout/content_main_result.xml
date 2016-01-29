@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.kevinthesun.csci571hw9.MainResult"
+    tools:showIn="@layout/activity_main_result">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/MainResultScrollView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MainResultLayout">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/DetaiButton"
+                android:id="@+id/DetailButton"
+                android:textSize="15sp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/MapButton"
+                android:id="@+id/MapButton"
+                android:layout_alignParentBottom="false"
+                android:layout_toRightOf="@+id/DetailButton"
+                android:layout_toEndOf="@+id/DetailButton"
+                android:textSize="15sp" />
+
+            <ImageButton
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:id="@+id/FacebookButton"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/MapButton"
+                android:layout_toEndOf="@+id/MapButton"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/fb_icon"
+                android:scaleType="fitXY"
+                android:layout_alignParentEnd="false"
+                android:adjustViewBounds="false"
+                android:cropToPadding="false"
+                android:padding="0dp"
+                android:contentDescription="@string/Faceboo"
+                android:layout_alignTop="@+id/MapButton" />
+
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:id="@+id/SummaryImage"
+                android:contentDescription="@string/Summary"
+                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentBottom="false"
+                android:layout_alignWithParentIfMissing="false"
+                android:layout_below="@+id/MapButton"
+                android:scaleType="fitXY"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:id="@+id/SummaryText"
+                android:layout_below="@+id/SummaryImage"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/DegreeText"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/SummaryText"
+                android:textSize="40sp"
+                android:textColor="#8c8c8c" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:id="@+id/DegreeDetailText"
+                android:textColor="#8c8c8c"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/DegreeText"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/DetailKeyText"
+                android:id="@+id/DetailKeyText"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/DegreeDetailText"
+                android:layout_marginTop="10dp"
+                android:textColor="#8c8c8c"
+                android:textSize="15sp"
+                android:lineSpacingExtra="15dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:id="@+id/DetailValueText"
+                android:textColor="#8c8c8c"
+                android:layout_alignParentEnd="true"
+                android:layout_alignTop="@+id/DetailKeyText"
+                android:gravity="right"
+                android:textSize="15sp"
+                android:lineSpacingExtra="15dp"/>
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

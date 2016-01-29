@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/res/merged/debug/menu/map_options_menu.xml",
+        "source": "/Users/kevinthesun1/AndroidStudioProjects/CSCI571HW9/app/build/intermediates/exploded-aar/com.hamweather/aeris-maps-library/1.0.2/res/menu/map_options_menu.xml"
+    }
+]
